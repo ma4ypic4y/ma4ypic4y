@@ -6,7 +6,7 @@ A Machine learning researcher, passionate about Data Science 📊.
 **Skills:**
  - Python / SQL
  - Tensorflow, Keras, PyTorch
- - LGBM, XGBoost, Catboost)
+ - LGBM, Catboost XGBoost
  - Pandas, Numpy, Optuna
  - Dash
  - Linux, Git, Docker
