@@ -3,7 +3,13 @@
 
 A Machine learning researcher, passionate about Data Science 📊.
 
-Skills: Python / SQL  / Tensorflow, Keras, PyTorch / LGBM(XGBoost, Catboost) / Pandas, Numpy / Optuna / Dash / HTML / CSS / Linux / Git
+Skills:
+ - Python / SQL
+ - Tensorflow, Keras, PyTorch
+ - LGBM, XGBoost, Catboost)
+ - Pandas, Numpy, Optuna
+ - Dash
+ - Linux, Git, Docker
 
 - 🌱 I’m currently learning: Fast API, Docker, Spark, Hadoop, Kafka 
 
