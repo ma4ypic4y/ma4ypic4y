@@ -3,7 +3,7 @@
 
 A Machine learning researcher, passionate about Data Science 📊.
 
-Skills:
+**Skills:**
  - Python / SQL
  - Tensorflow, Keras, PyTorch
  - LGBM, XGBoost, Catboost)
