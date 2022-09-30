@@ -9,7 +9,8 @@ A Machine learning researcher, passionate about Data Science 📊.
  - LGBM, Catboost XGBoost
  - Pandas, Numpy, Optuna
  - Dash
- - Linux, Git, Docker, SQL
+ - Linux, Git, Docker, Grafana
+ - SQL, MongoDB, Redis
 
 
 - 🌱 I’m currently learning: ML, CV, PySpark, Hadoop, Kafka
