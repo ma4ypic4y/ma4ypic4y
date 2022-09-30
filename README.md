@@ -1,7 +1,8 @@
 ### Hi there 👋, my name is Maxim
-![](https://c.tenor.com/XDjCZPAKx1AAAAAC/silicon-valley.gif)
 
 A Machine learning researcher, passionate about Data Science 📊.
+
+![](https://c.tenor.com/XDjCZPAKx1AAAAAC/silicon-valley.gif)
 
 **Skills:**
  - Python
