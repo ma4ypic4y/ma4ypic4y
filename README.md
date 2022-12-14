@@ -2,11 +2,9 @@
 
 A Machine learning researcher, passionate about Data Science 📊.
 
-![](https://c.tenor.com/XDjCZPAKx1AAAAAC/silicon-valley.gif)
-
 **Skills:**
  - Python
- - Tensorflow, Keras, PyTorch
+ - Tensorflow, PyTorch
  - LGBM, Catboost, XGBoost
  - Pandas, Numpy, Optuna
  - Dash
