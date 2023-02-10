@@ -20,4 +20,4 @@ A Machine learning researcher, passionate about Data Science 📊.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ma4ypic4y&show_icons=true&theme=cobalt)
 
-
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ma4ypic4y&theme=dark)]([https://github.com/KnlnKS/leetcode-stats](https://leetcode.com/ma4ypic4y/))
