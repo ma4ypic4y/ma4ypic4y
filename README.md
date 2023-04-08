@@ -1,19 +1,31 @@
-### Hi there 👋, my name is Maxim
 
-A Machine learning researcher, passionate about Data Science 📊.
+## 🚀 Welcome to my Page! 🤖
 
-**Skills:**
- - Python
- - Tensorflow, PyTorch
- - LGBM, Catboost, XGBoost
- - Pandas, Numpy, Optuna
- - Dash
- - Linux, Git, Docker, Grafana
- - SQL, MongoDB, Redis
+### 🧰 Technologies
+I'm proficient in the following tools and technologies:
 
+- 🐍 Python
+- 🚀 LGBM, Catboost, XGBoost
+- 📊 Pandas, Numpy, Optuna
+- 🧠 TensorFlow, PyTorch (basic knowledge)
+- 🐧 Linux, 📜 Git, 🐳 Docker, 📊 Grafana, 🌐 Dash
+- 🗃️ SQL, 🍃 MongoDB, 🔍 Redis
 
-- 🌱 I’m currently learning: ML, CV, ELK, PySpark, Hadoop, Kafka
+### 💼 Work Experience
+I've worked on some exciting projects as a Data Scientist, including:
 
+- 📈 Time Series Forecasting (demand forecasting).
+- 🛣 Development of a system and hardware for road infrastructure inventory using DL/ML approaches. Using multiple sensors such as: Lidar, RealSense, Basler, GNSS.
+
+### 🔬 Research Projects
+I've also contributed to several research projects in the field of Data Science:
+- 💥 Disentangling heavy particle tracks using machine learning in the JINR SPD experiment.
+- 🌡️ Predicting heavy metal pollution using satellite imagery and machine learning (moss jinr).
+- 💎 Reconstruction of the properties of crystalline hydrates using statistical methods and machine learning.
+- 👨‍💼 Assessment of the engagement process using computer vision.
+- 
+#### 📩 Contact
+If you're interested in collaborating or learning more about my work, feel free to reach out to me at:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/m-borisov/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/ma4ypic4y) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='kaggle' height='40'>](https://leetcode.com/ma4ypic4y/)
 
