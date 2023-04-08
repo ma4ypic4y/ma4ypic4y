@@ -9,7 +9,7 @@ I'm proficient in the following tools and technologies:
 - 📊 Pandas, Numpy, Optuna
 - 🧠 TensorFlow, PyTorch (basic knowledge)
 - 🐧 Linux, 📜 Git, 🐳 Docker, 📊 Grafana, 🌐 Dash
-- 🗃️ SQL, 🍃 MongoDB, 🔍 Redis
+- 🗃️ SQL, 🍃 MongoDB, 🔍 ELK (basic)
 
 ### 💼 Work Experience
 I've worked on some exciting projects as a Data Scientist, including:
