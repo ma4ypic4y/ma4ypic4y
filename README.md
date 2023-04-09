@@ -8,7 +8,7 @@ I'm proficient in the following tools and technologies:
 - 🚀 LGBM, Catboost, XGBoost
 - 📊 Pandas, Numpy, Optuna
 - 🧠 TensorFlow, PyTorch (basic knowledge)
-- 🐧 Linux, 📜 Git, 🐳 Docker, 📊 Grafana, 🌐 Dash
+- 🐧 Linux, 📜 Git, 🐳 Docker, 📊 Grafana, 🌐 Dash, 🪄 ChatGPT
 - 🗃️ SQL, 🍃 MongoDB, 🔍 ELK (basic)
 
 ### 💼 Work Experience
