@@ -8,8 +8,8 @@ I'm proficient in the following tools and technologies:
 - 🚀 LGBM, Catboost, XGBoost
 - 📊 Pandas, Numpy, Optuna
 - 🧠 TensorFlow, PyTorch (basic knowledge)
-- 🐧 Linux, 📜 Git, 🐳 Docker, 📊 Grafana, 🌐 Dash, 🪄 ChatGPT
 - 🗃️ SQL, 🍃 MongoDB, 🔍 ELK (basic)
+- 🐧 Linux, 📜 Git, 🐳 Docker, 📊 Grafana, 🌐 Dash, 🪄 ChatGPT
 
 ### 💼 Work Experience
 I've worked on some exciting projects as a Data Scientist, including:
