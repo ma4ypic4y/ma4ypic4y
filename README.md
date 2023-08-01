@@ -6,7 +6,7 @@ I'm proficient in the following tools and technologies:
 
 - 🐍 Python
 - 🚀 LGBM, Catboost, XGBoost
-- 📊 Pandas, Numpy, Optuna 
+- 📊 Sklearn, Pandas, Numpy, Optuna
 - 🕷️ Selenium, bs4, request
 - 🧠 TensorFlow, PyTorch (basic knowledge)
 - 🗃️ SQL, 🍃 MongoDB, 🔍 ELK (basic)
