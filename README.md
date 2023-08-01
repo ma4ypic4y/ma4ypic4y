@@ -20,7 +20,7 @@ I've worked on some exciting projects as a Data Scientist, including:
 
 ### 🔬 Research Projects
 I've also contributed to several research projects in the field of Data Science:
-- 💥 Disentangling heavy particle tracks using machine learning in the JINR SPD experiment.
+- 💥 Unraveling Time-Slices of Events in the [JINR SPD Experiment](http://spd.jinr.ru/).
 - 🌡️ Predicting heavy metal pollution using satellite imagery and machine learning (MOSS JINR).
 - 💎 Reconstruction of the properties of crystalline hydrates using statistical methods and machine learning.
 - 👨‍💼 Assessment of the engagement process using computer vision.
