@@ -6,11 +6,11 @@ I'm proficient in the following tools and technologies:
 
 - 🐍 Python
 - 🚀 LGBM, Catboost, XGBoost
-- 📊 Sklearn, Pandas, Numpy, Optuna
-- 🕷️ Selenium, bs4, request
-- 🧠 TensorFlow, PyTorch (basic knowledge)
-- 🗃️ SQL, 🍃 MongoDB, 🔍 ELK (basic)
-- 🐧 Linux, 📜 Git, 🐳 Docker, 📊 Grafana, 🌐 Dash, 🪄 ChatGPT
+- 📊 Sklearn, Pandas, Numpy, Optuna, ...
+- 🕷️ aiohttp, selenium, bs4, requests
+- 🧠 TensorFlow, PyTorch (basic knowledge), Pytorch-lighting, PML
+- 🗃️ SQL, ClickHouse, 🍃 MongoDB, 🔍 ELK (basic)
+- 🐧 Linux, 📜 Git, 🐳 Docker, 📊 Grafana, 🌐 Dash, 🪄 ChatGPT + api
 
 ### 💼 Work Experience
 I've worked on some exciting projects as a Data Scientist, including:
