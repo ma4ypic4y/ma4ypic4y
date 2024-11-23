@@ -1,23 +1,6 @@
 
 ## 🚀 Welcome to my Page! 🤖
 
-### 🧰 Technologies
-I'm proficient in the following tools and technologies:
-
-- 🐍 Python
-- 🚀 LGBM, Catboost, XGBoost
-- 📊 Sklearn, Pandas, Numpy, Optuna, ...
-- 🕷️ aiohttp, selenium, bs4, requests
-- 🧠 TensorFlow, PyTorch (basic knowledge), Pytorch-lighting, PML
-- 🗃️ SQL, ClickHouse, 🍃 MongoDB, 🔍 ELK (basic)
-- 🐧 Linux, 📜 Git, 🐳 Docker, 📊 Grafana, 🌐 Dash, 🪄 ChatGPT + api
-
-### 💼 Work Experience
-I've worked on some exciting projects as a Data Scientist, including:
-
-- 📈 Time Series Forecasting (demand forecasting).
-- 🛣 Development of a system and hardware for road infrastructure inventory using DL/ML approaches. Using multiple sensors such as: Lidar, RealSense, Basler, GNSS.
-
 ### 🔬 Research Projects
 I've also contributed to several research projects in the field of Data Science:
 - 💥 Unraveling Time-Slices of Events in the [JINR SPD Experiment](http://spd.jinr.ru/).
